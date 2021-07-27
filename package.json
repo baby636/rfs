@@ -60,7 +60,7 @@
     "sass": "^1.36.0",
     "stylelint": "^9.10.1",
     "stylelint-config-standard": "^18.3.0",
-    "stylus": "0.54.7",
+    "stylus": "^0.54.8",
     "xo": "^0.24.0"
   },
   "xo": {
